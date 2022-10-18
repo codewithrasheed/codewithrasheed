@@ -18,7 +18,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/rasheed.kashif.7359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itxsaad495" height="30" width="40" /></a>
-<a href="https://instagram.com/itx__saad495" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itx__saad495" height="30" width="40" /></a>
 <a href="https://www.instagram.com/itx._.rasheed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itx__saad495" height="30" width="40" /></a>
 <a href="https://www.behance.net/rasheedkashif495" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="itx__saad495" height="30" width="40" /></a>
 </p>
