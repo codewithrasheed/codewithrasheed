@@ -9,11 +9,11 @@
 
  👨‍💻 All of my projects are available at: [https://github.com/codewithrasheed](https://github.com/codewithrasheed)
 
- 💬 Ask me about: **HTML | CSS | Bootstrap | Dart**
+ 💬 Ask me about: **HTML | CSS | Bootstrap | JavaScript | Dart**
 
  📫 How to reach me: **rasheedahmed4845@gmail.com**
 
- ⚡ Fun fact: **"I am Currently a Student of XII Computer Science"**
+ ⚡ Fun fact: **"I am Currently a Student"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
