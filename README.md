@@ -13,7 +13,7 @@
 
  📫 How to reach me: **rasheedahmed4845@gmail.com**
 
- ⚡ Fun fact: **"I am Currently a Student"**
+ ⚡ Fun fact: **"I am currently a Student"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
